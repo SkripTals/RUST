@@ -1,11 +1,11 @@
-# This is repository of Rust Documentation
+# Это хранилище документации Rust
 
 ## Files
 
-* [**Entities**](Entities.md) - All entities and their shortnames (NPC's, Helicopters, etc)
-* [**Items**](Items.md) - All items with ID's and shortnames
+* [**Entities**](Entities.md) - Все объекты и их краткие названия (NPC, вертолеты и т.д.)
+* [**Items**](Items.md) - Все элементы с идентификаторами и краткими именами
 
 ## Folders
 
-* [**Extended**](Extended) - Extended information of game, mostly for devlopers
-* [**Resources**](Resources) - Files for applications such as update checkers
+* [**Extended**](Extended) - Расширенная информация об игре, в основном для разработчиков
+* [**Resources**](Resources) - Файлы для таких приложений, как средства проверки обновлений
